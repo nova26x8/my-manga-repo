@@ -1,0 +1,20 @@
+{
+  "name": "Official APIs",
+  "version": 1,
+  "sources": [
+    {
+      "id": "mangadex",
+      "name": "MangaDex",
+      "language": "multi",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/nova26x8/my-manga-repo/main/sources/mangadex.json",
+      "sha256": "d83e71e23561ec92b77d2c1c27231d47fbefba6f73e33ac2063999547447fcdd",
+      "domains": [
+        "api.mangadex.org",
+        "uploads.mangadex.org",
+        "*.mangadex.network"
+      ],
+      "description": "Community-translated manga through MangaDex's official public API."
+    }
+  ]
+}
